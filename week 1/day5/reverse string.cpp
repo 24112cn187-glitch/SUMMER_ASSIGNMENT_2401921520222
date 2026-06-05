@@ -3,7 +3,6 @@ public:
 
     void reverse(int i,int j ,vector<char>& s)
     {
-        
         if(i>j) return;
 
         char a= s[i];
